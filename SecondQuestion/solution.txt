@@ -1,0 +1,13 @@
+Second Question:
+
+According to http://www.bayareacensus.ca.gov/bayarea.htm from 2010
+ - 7,003,059 people live in households
+ 
+ According to http://www.esrb.org/about/images/vidGames04.png from 2010
+  - 67% of US households play video games (also confirmed by http://www.grabstats.com/statmain.aspx?StatID=741)
+
+  
+Best assessment:
+
+If we take San Francisco Bay Area household population and multiply it by the percent of US households that play video games. 
+It would give us the result of 4,692,049 gamers in the area.
