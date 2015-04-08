@@ -1,3 +1,12 @@
+#IGN Code Food 2013 submission
+
+######Update 2015:
+
+This repository contains my submission for an IGN competition for a summer internship. All the files, including the descriptions are original from the year 2013.
+
+
+######Original descripton:
+
 IMPORTANT NOTES:
 I would like to note that my solutions contain mostly RAW algorithms. 
 Which means the objective was completed and the programs are fitted with a sample test case.
