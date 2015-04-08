@@ -17,5 +17,5 @@ LEGEND:
 n - amount of characters in grid
 w - amount of words
 
-Memory complexity: O(n + w) => O(N) -> Linear based on the amount of elements on imput.
-Time complexity: O(n*w) => O(N) -> Linear based on the amount of elements on imput.
+Memory complexity: O(n + w) => O(N) -> Linear based on the amount of elements on input.
+Time complexity: O(n*w) => O(N) -> Linear based on the amount of elements on input.
