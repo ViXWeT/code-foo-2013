@@ -1,8 +1,8 @@
-#IGN Code Food 2013 submission
+#IGN Code Foo 2013 submission
 
 ######Update 2015:
 
-This repository contains my submission for an IGN competition for a summer internship. All the files, including the descriptions are original from the year 2013.
+This repository contains my submission for an IGN competition for a summer internship. All the files, including the descriptions are original, from the year 2013.
 
 
 ######Original descripton:
